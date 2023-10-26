@@ -1,0 +1,15 @@
+Q1 What is cloud computing ?
+Ans - Cloud computing is a platform where we can store and access the data and programs on remote server that are hosted on internet instead of computer's harddrive or any storage application.
+
+Q2 - Deployment Model in Cloud ?
+Ans - The cloud deployment model is used to identify the specific environment based on ownership, scale, access, purpose and clound's nature.
+
+Q3 - Service Model in Cloud ?
+Ans - There are three types of cloud service model.
+      1 - Saas - Software as a service (It is managed from central location, hosted on remote server, accessible on internet, updates are applied automatically,)
+      2 - Paas - Platform as a service (Accessible to various users via the same development application, integrates database, works on virtualisation technology, auto-scale, supports multiple lang and framework)
+      3 - Iaas - Infrastructure as a service (highly scalable, dynamic and flexible services, GUI and API-based access)
+
+Q4 - Architecture of Cloud Computing ?
+Ans - 
+ 
