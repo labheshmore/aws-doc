@@ -10,6 +10,21 @@ Ans - There are three types of cloud service model.
       2 - Paas - Platform as a service (Accessible to various users via the same development application, integrates database, works on virtualisation technology, auto-scale, supports multiple lang and framework)
       3 - Iaas - Infrastructure as a service (highly scalable, dynamic and flexible services, GUI and API-based access)
 
-Q4 - Architecture of Cloud Computing ?
+Q4 - AWS Global Infrastructure Count ?
+Ans - The following are the components that make up the AWS infrastructure:
+      Availability Zones - An availability zone can be a several data centers, but if they are close together, they are counted as 1 availability zone.
+      Region -
+      Edge locations
+      Regional Edge Caches
+
+Q5 - Why do we use region ?
+Ans - We use region to achives the greatest possible fault tolerence and stability.
+
+Q6 - What is service ? & What are resources ?
 Ans - 
+
+Q7 - How many resources do we have in IAM ?
+Ans - Identity and Access Management provides variety of features and resources, 
+
+
  
