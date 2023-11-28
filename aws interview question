@@ -120,8 +120,8 @@ Ans - Following are the NAMING RULES:
       6)A bucket name cannot be used by another AWS account in the same partition until the bucket is deleted.
       7)Each label must start and end with a lowercase letter or a number.
 
-Q24 - What is the major resource of S3 Bucket ?
-Ans - 
+
+ 
 
 
 
